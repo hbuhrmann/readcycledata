@@ -31,9 +31,10 @@ I will describe to you how I do it:
 2. Open ../code/GeneralPrep.py
 3. Update your datafolder as described in GeneralPrep.py - initially you can point these to the included ../Datafiles/ folders on your local version
 
-4. Load your raw cycling data into the "Raw" folder (and make sure that the "Intermediate" folder is clean)
+4. Load your raw cycling data into the "Raw" folder (and make sure that the "Intermediate" folder is clean). I have put some sample files into the raw folder already, they are guaranteed to work (well at least they do for me)
 5. Run the GeneralPrep.py script
 6. Use Excel or something to inspect the files in the Intermediate and Final folders
 
-
+## Caveat
+Nothing in here is super robust - if it breaks you can ask me, but please try and fix it yourself first .....
 
