@@ -1,0 +1,5 @@
+Filename,Outputfile,Linecount,Errorfound,Errorcount,Errortext
+garminoriginalfilewithstagespowermeter.fit,_fitgarminoriginalfilewithstagespowermeter.csv,4979,,,
+garminwithstagespowermeterexample.tcx,_tcxgarminwithstagespowermeterexample.csv,9584,True,34,
+stravawithoutpowerexample.gpx,_gpxstravawithoutpowerexample.csv,3354,True,3354,watts |
+stravawithpowerfromkinomapappexample.gpx,_gpxstravawithpowerfromkinomapappexample.csv,7499,True,1,
